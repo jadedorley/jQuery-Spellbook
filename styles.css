@@ -1,0 +1,46 @@
+.bugs {
+    justify-content:center;
+    display:flex;
+    margin:auto;
+}
+body {
+ background-image: url("https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif");
+ background-color: #000000;
+}
+ p {
+     text-align:center;
+     color:white;
+     font-family: 'Cinzel', serif;
+
+}
+h1 {
+    color:white;
+    border: inset 3px;
+    font-family: 'Old Standard TT', serif;
+}
+.img1 {
+      display:flex;
+      justify-content:center;
+}
+.img2 {
+    display:flex;
+    justify-content:center;
+}
+.img3 {
+    display:flex;
+    justify-content:center;
+}
+.butt {
+      display:flex;
+      justify-content:center;
+}
+#abc {
+    border: 5px blue inset;
+}
+#ab {
+    border: 5px purple outset;
+}
+#abcd {
+    border: 5px grey ridge;
+    border-radius: 8px;
+}
